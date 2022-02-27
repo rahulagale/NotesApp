@@ -17,8 +17,8 @@
     <color name="colorMiscellaneousBackground">#1F1F1F</color>
     <color name="colorNoteColor2">#FDBE3B</color>
     <color name="colorNoteColor3">#FF4842</color>
-    <color name="colorNoteColor4">#3A52Fc</color>
-    <color name="colorNoteColor5">#a6ff4d</color>
+    <color name="colorNoteColor4">#66ccff</color>
+    <color name="colorNoteColor5">#b3ff66</color>
     <color name="colorDelete">#FF4842</color>
     <color name="colorSearchBackground">#333333</color>
     <color name="colorIcons">#DBDBDB</color>
